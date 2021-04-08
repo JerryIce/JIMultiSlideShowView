@@ -19,7 +19,7 @@ it, simply add the following line to your Podfile:
 pod 'JIMultiSlideShowView'
 ```
 
-![JIMultiShowViewIcon](https://github.com/JerryIce/JIMultiShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewIcon.png)
+![JIMultiShowViewIcon](https://github.com/JerryIce/JIMultiSlideShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewIcon.png)
 
 >一个iOS UICollectionView嵌套UITabelView并附带头部展示栏的多功能显示视图控件： 实现左右滑动与上下拖动展示内容的同时，还能显示共用的头部展示栏。
 
@@ -27,7 +27,7 @@ pod 'JIMultiSlideShowView'
 
 ## 具体样式展示示意图如下：
 ***
-![JIMultiShowView功能示意图](https://github.com/JerryIce/JIMultiShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewDemoDiagram.gif)
+![JIMultiShowView功能示意图](https://github.com/JerryIce/JIMultiSlideShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewDemoDiagram.gif)
 
 ## 介绍说明：
 ***
@@ -36,10 +36,10 @@ pod 'JIMultiSlideShowView'
 ## 使用说明：
 
 ### 视图结构示意图：
-![JIMultiShowView视图结构示意图](https://github.com/JerryIce/JIMultiShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewCompositionDiagram.png)
+![JIMultiShowView视图结构示意图](https://github.com/JerryIce/JIMultiSlideShowView/blob/main/Example/JIMultiSlideShowView/JIMultiShowViewCompositionDiagram.png)
 
 ### 内部类结概览：
-![JIMultiShowView内部类结构图](https://github.com/JerryIce/JIMultiShowView/blobmain/Example/JIMultiSlideShowView/JIMultiShowViewClassDiagram.png)
+![JIMultiShowView内部类结构图](https://github.com/JerryIce/JIMultiSlideShowView/blobmain/Example/JIMultiSlideShowView/JIMultiShowViewClassDiagram.png)
 
 ## 使用方式：
 1.首先确认头部展示栏的数据JIMultiShowTableHeaderItem，即提供左右滑动时头部需要做出相应变化的数据，以数组方式提供给jiMultiShowViewGetDataArray的实现方。

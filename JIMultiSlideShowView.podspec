@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JIMultiSlideShowView'
   s.version          = '0.1.0'
-  s.summary          = 'UICollectionView嵌套UITableView并附带头部展示栏的连动视图结构'
+  s.summary          = '多功能视图展示结构'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

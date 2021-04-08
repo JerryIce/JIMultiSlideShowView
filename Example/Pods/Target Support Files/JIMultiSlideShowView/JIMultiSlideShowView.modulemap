@@ -1,0 +1,6 @@
+framework module JIMultiSlideShowView {
+  umbrella header "JIMultiSlideShowView-umbrella.h"
+
+  export *
+  module * { export * }
+}

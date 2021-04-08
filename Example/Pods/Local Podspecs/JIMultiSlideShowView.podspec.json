@@ -1,0 +1,22 @@
+{
+  "name": "JIMultiSlideShowView",
+  "version": "0.1.0",
+  "summary": "UICollectionView嵌套UITableView并附带头部展示栏的连动视图结构",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JerryIce/JIMultiSlideShowView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jerryelectricity@me.com": "YangZongwei@csvw.com"
+  },
+  "source": {
+    "git": "https://github.com/JerryIce/JIMultiSlideShowView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JIMultiSlideShowView/Classes/**/*"
+}

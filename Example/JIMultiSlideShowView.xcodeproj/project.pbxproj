@@ -21,6 +21,11 @@
 		6003F5B2195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
 		6003F5BA195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5B8195388D20070C39A /* InfoPlist.strings */; };
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
+		6747B129261EA97500DD9010 /* JIMultiShowViewIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6747B124261EA97500DD9010 /* JIMultiShowViewIcon.png */; };
+		6747B12A261EA97500DD9010 /* JIMultiShowViewClassDiagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 6747B125261EA97500DD9010 /* JIMultiShowViewClassDiagram.png */; };
+		6747B12B261EA97500DD9010 /* JIMultiShowViewDemoDiagram.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6747B126261EA97500DD9010 /* JIMultiShowViewDemoDiagram.gif */; };
+		6747B12C261EA97500DD9010 /* JIMultiShowViewDemo说明.graffle in Resources */ = {isa = PBXBuildFile; fileRef = 6747B127261EA97500DD9010 /* JIMultiShowViewDemo说明.graffle */; };
+		6747B12D261EA97500DD9010 /* JIMultiShowViewCompositionDiagram.png in Resources */ = {isa = PBXBuildFile; fileRef = 6747B128261EA97500DD9010 /* JIMultiShowViewCompositionDiagram.png */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		A4E68B5422AD6479769A4AA4 /* Pods_JIMultiSlideShowView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AFC4B3F8A95CAC35775DAF7 /* Pods_JIMultiSlideShowView_Example.framework */; };
@@ -38,9 +43,9 @@
 
 /* Begin PBXFileReference section */
 		0A129A7A35F9B73CE7867CBF /* Pods-JIMultiSlideShowView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JIMultiSlideShowView_Tests.release.xcconfig"; path = "Target Support Files/Pods-JIMultiSlideShowView_Tests/Pods-JIMultiSlideShowView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		48C729C94407B350535C97BB /* JIMultiSlideShowView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JIMultiSlideShowView.podspec; path = ../JIMultiSlideShowView.podspec; sourceTree = "<group>"; };
+		48C729C94407B350535C97BB /* JIMultiSlideShowView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JIMultiSlideShowView.podspec; path = ../JIMultiSlideShowView.podspec; sourceTree = "<group>"; };
 		4C0E9FF879F49D75A9879381 /* Pods-JIMultiSlideShowView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JIMultiSlideShowView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-JIMultiSlideShowView_Tests/Pods-JIMultiSlideShowView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		506B55C1E4D794589E7C042A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		506B55C1E4D794589E7C042A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* JIMultiSlideShowView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JIMultiSlideShowView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,12 +65,17 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
+		6747B124261EA97500DD9010 /* JIMultiShowViewIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JIMultiShowViewIcon.png; sourceTree = "<group>"; };
+		6747B125261EA97500DD9010 /* JIMultiShowViewClassDiagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JIMultiShowViewClassDiagram.png; sourceTree = "<group>"; };
+		6747B126261EA97500DD9010 /* JIMultiShowViewDemoDiagram.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = JIMultiShowViewDemoDiagram.gif; sourceTree = "<group>"; };
+		6747B127261EA97500DD9010 /* JIMultiShowViewDemo说明.graffle */ = {isa = PBXFileReference; lastKnownFileType = file; path = "JIMultiShowViewDemo说明.graffle"; sourceTree = "<group>"; };
+		6747B128261EA97500DD9010 /* JIMultiShowViewCompositionDiagram.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = JIMultiShowViewCompositionDiagram.png; sourceTree = "<group>"; };
 		674ABD82DE55F196F906F5E0 /* Pods-JIMultiSlideShowView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JIMultiSlideShowView_Example.debug.xcconfig"; path = "Target Support Files/Pods-JIMultiSlideShowView_Example/Pods-JIMultiSlideShowView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		930F4FC52396FB610170ACEC /* Pods_JIMultiSlideShowView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JIMultiSlideShowView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AFC4B3F8A95CAC35775DAF7 /* Pods_JIMultiSlideShowView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JIMultiSlideShowView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC6647D17B69176D986612C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		DC6647D17B69176D986612C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E718236D69274B961DE75FF5 /* Pods-JIMultiSlideShowView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JIMultiSlideShowView_Example.release.xcconfig"; path = "Target Support Files/Pods-JIMultiSlideShowView_Example/Pods-JIMultiSlideShowView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,7 +113,6 @@
 				4C0E9FF879F49D75A9879381 /* Pods-JIMultiSlideShowView_Tests.debug.xcconfig */,
 				0A129A7A35F9B73CE7867CBF /* Pods-JIMultiSlideShowView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -149,6 +158,11 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* YZWViewController.h */,
 				6003F5A6195388D20070C39A /* YZWViewController.m */,
+				6747B125261EA97500DD9010 /* JIMultiShowViewClassDiagram.png */,
+				6747B128261EA97500DD9010 /* JIMultiShowViewCompositionDiagram.png */,
+				6747B127261EA97500DD9010 /* JIMultiShowViewDemo说明.graffle */,
+				6747B126261EA97500DD9010 /* JIMultiShowViewDemoDiagram.gif */,
+				6747B124261EA97500DD9010 /* JIMultiShowViewIcon.png */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -248,6 +262,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "jerryelectricity@me.com";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 2X3828K2QS;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -258,6 +275,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -277,8 +295,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6747B12B261EA97500DD9010 /* JIMultiShowViewDemoDiagram.gif in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
+				6747B12D261EA97500DD9010 /* JIMultiShowViewCompositionDiagram.png in Resources */,
+				6747B129261EA97500DD9010 /* JIMultiShowViewIcon.png in Resources */,
+				6747B12C261EA97500DD9010 /* JIMultiShowViewDemo说明.graffle in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
+				6747B12A261EA97500DD9010 /* JIMultiShowViewClassDiagram.png in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
 			);
@@ -494,6 +517,7 @@
 			baseConfigurationReference = 674ABD82DE55F196F906F5E0 /* Pods-JIMultiSlideShowView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2X3828K2QS;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JIMultiSlideShowView/JIMultiSlideShowView-Prefix.pch";
 				INFOPLIST_FILE = "JIMultiSlideShowView/JIMultiSlideShowView-Info.plist";
@@ -510,6 +534,7 @@
 			baseConfigurationReference = E718236D69274B961DE75FF5 /* Pods-JIMultiSlideShowView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2X3828K2QS;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JIMultiSlideShowView/JIMultiSlideShowView-Prefix.pch";
 				INFOPLIST_FILE = "JIMultiSlideShowView/JIMultiSlideShowView-Info.plist";

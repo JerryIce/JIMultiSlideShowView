@@ -1,0 +1,16 @@
+PODS:
+  - JIMultiSlideShowView (0.1.0)
+
+DEPENDENCIES:
+  - JIMultiSlideShowView (from `../`)
+
+EXTERNAL SOURCES:
+  JIMultiSlideShowView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JIMultiSlideShowView: 7b49a511f5661179677a47b3490f17a05b8f2c26
+
+PODFILE CHECKSUM: d89177a6a0b9b57f2b3658d03a4e617dae09a15f
+
+COCOAPODS: 1.10.1
